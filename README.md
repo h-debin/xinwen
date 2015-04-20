@@ -8,6 +8,6 @@
 
 * [iOS APP](https://github.com/metrue/xNews.iOS)
 
-* Android APP
+* [Android APP](https://github.com/h-debin/EnergyNews)
 
 
